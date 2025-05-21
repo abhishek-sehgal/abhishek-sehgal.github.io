@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Staff Research Engineer 2 @ <a href='https://sra.samsung.com/research-area/next-generation-communications/'>Samsung Research America</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Profile_Crop.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
